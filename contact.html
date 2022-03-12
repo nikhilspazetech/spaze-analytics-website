@@ -66,9 +66,9 @@
             <li class="nav-item">
               <a href="about.html" class="nav-link">About Us</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a href="services.html" class="nav-link">Services</a>
-            </li>
+            </li> -->
             <li class="nav-item">
               <a href="blog.html" class="nav-link">Blog</a>
             </li>
@@ -121,41 +121,53 @@
             </div>
           </div>
           <div class="col-md-8">
-            <div class="card">
-              <div class="card-body p-4">
-                <h3 class="text-center">
-                  Please fill out this form to contact us
-                </h3>
-                <hr />
-                <div class="row">
-                  <div class="col-md-6">
-                    <div class="form-group">
-                      <input
-                        type="text"
-                        class="form-control"
-                        placeholder="First Name"
-                      />
+            <form
+              name="frmContact"
+              class="needs-validation"
+              method="post"
+              action="contact.php"
+            >
+              <div class="card">
+                <div class="card-body p-4">
+                  <h3 class="text-center">
+                    Please fill out this form to contact us
+                  </h3>
+                  <hr />
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="form-group">
+                        <input
+                          type="text"
+                          name="txtName"
+                          id="txtName"
+                          class="form-control"
+                          placeholder="First Name"
+                        />
+                      </div>
                     </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="form-group">
-                      <input
-                        type="text"
-                        class="form-control"
-                        placeholder="Last Name"
-                      />
+                    <div class="col-md-6">
+                      <div class="form-group">
+                        <input
+                          type="text"
+                          name="txtLName"
+                          id="txtLName"
+                          class="form-control"
+                          placeholder="Last Name"
+                        />
+                      </div>
                     </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="form-group">
-                      <input
-                        type="text"
-                        class="form-control"
-                        placeholder="E-mail"
-                      />
+                    <div class="col-md-6">
+                      <div class="form-group">
+                        <input
+                          type="text"
+                          name="txtEmail"
+                          id="txtEmail"
+                          class="form-control"
+                          placeholder="E-mail"
+                        />
+                      </div>
                     </div>
-                  </div>
-                  <div class="col-md-6">
+                    <!-- <div class="col-md-6">
                     <div class="form-group">
                       <input
                         type="text"
@@ -163,29 +175,34 @@
                         placeholder="Phone number"
                       />
                     </div>
+                  </div> -->
                   </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-12">
-                    <div class="form-group">
-                      <textarea
-                        type="text"
-                        class="form-control"
-                        placeholder="Message"
-                      ></textarea>
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="form-group">
+                        <textarea
+                          type="text"
+                          name="txtMessage"
+                          id="txtMessage"
+                          class="form-control"
+                          placeholder="Message"
+                        ></textarea>
+                      </div>
                     </div>
-                  </div>
-                  <div class="col-md-12">
-                    <div class="form-group">
-                      <input
-                        type="submit"
-                        class="btn btn-outline-danger btn-block"
-                      />
+                    <div class="col-md-12">
+                      <div class="form-group">
+                        <input
+                          type="submit"
+                          name="Submit"
+                          id="submit"
+                          class="btn btn-outline-danger btn-block"
+                        />
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
+            </form>
           </div>
         </div>
       </div>
