@@ -3,7 +3,8 @@
 if(isset($_POST['txtName']))
 {
 // $con = mysqli_connect('localhost', 'database_user', 'database_password','database');
-$con = mysqli_connect('localhost', 'u392818579_contact_form', '4DzH/iggxk:','u392818579_contact_sa');
+$con = mysqli_connect('localhost', 'u392818579_contact_form
+', '4DzH/iggxk:','u392818579_contact_sa');
 
 // get the post records
 
