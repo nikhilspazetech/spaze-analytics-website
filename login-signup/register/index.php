@@ -57,6 +57,15 @@
 <!-- Custom styles -->
 <link rel="stylesheet" href="../assets/css/app.css">
 <link rel="stylesheet" href="custom.css" >
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C5JQX06RLM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C5JQX06RLM');
+</script>
   </head>
   <body>
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
