@@ -26,14 +26,14 @@ check_logged_out();
 <meta itemprop="description" content="Login with Spaze Analytics and get to know about our services in an efficient way. There are various services that we provide including E-Commerce Analytics, Data Analytics, and Excel VBA Automation.">
 <meta itemprop="image" content="https://spazeanalytics.com/img/icon.png">
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-<meta name="og:title" content="Spaze Analytics">
-<meta name="og:description" content="Login with Spaze Analytics and get to know about our services in an efficient way. There are various services that we provide including E-Commerce Analytics, Data Analytics, and Excel VBA Automation.">
-<meta name="og:type" content="website">
-<meta name="og:image" content="https://spazeanalytics.com/img/icon.png">
-<meta name="og:url" content="https://spazeanalytics.com/index.html">
-<meta name="og:site_name" content="Spaze Analytics">
-<meta name="og:locale" content="en_US">
-<meta name="og:video" content="https://youtu.be/Z1R5nSHcOKQ">
+<meta property="og:title" content="Spaze Analytics">
+<meta property="og:description" content="Login with Spaze Analytics and get to know about our services in an efficient way. There are various services that we provide including E-Commerce Analytics, Data Analytics, and Excel VBA Automation.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://spazeanalytics.com/img/icon.png">
+<meta property="og:url" content="https://spazeanalytics.com/index.html">
+<meta property="og:site_name" content="Spaze Analytics">
+<meta property="og:locale" content="en_US">
+<meta property="og:video" content="https://youtu.be/Z1R5nSHcOKQ">
     <link
       rel="icon"
       type="image/x-icon"
