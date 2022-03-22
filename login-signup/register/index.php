@@ -41,7 +41,7 @@
     <link rel="stylesheet" href="css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/bootstrap.css" />
     <link rel="stylesheet" href="css/style.css" />
- 
+    <link rel="canonical" href="https://www.spazeanalytics.com/login-signup/register/" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudfare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"
@@ -127,7 +127,7 @@
                     <div class="text-center">
                             <img class="mb-1" src="../../img/icon.png" alt="" width="130" height="130">
                         </div>
-                    <h6 class="h3 mt-3 mb-3 font-weight-normal text-muted text-center">Create an Account</h6>
+                    <1 class="h3 mt-3 mb-3 font-weight-normal text-muted text-center">Create an Account</1>
                     <div class="text-center mb-3">
                         <small class="text-success font-weight-bold">
                             <?php

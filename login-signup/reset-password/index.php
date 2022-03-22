@@ -43,7 +43,7 @@ check_logged_out();
     <link rel="stylesheet" href="../../css/font-awesome.min.css" />
     <link rel="stylesheet" href="../../css/bootstrap.css" />
     <link rel="stylesheet" href="../../css/style.css" />
- 
+    <link rel="canonical" href="https://www.spazeanalytics.com/login-signup/reset-password/" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudfare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"

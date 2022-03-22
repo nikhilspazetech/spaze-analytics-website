@@ -18,16 +18,16 @@ check_logged_out();
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Data Analytics and Spazetech Solutions</title>
-    <meta name="description" content="Spaze Analytics have always done things in different ways. Our work culture create our workforce somewhere different from other organization cultures.">
+    <meta name="description" content="Login with Spaze Analytics and get to know about our services in an efficient way. There are various services that we provide including E-Commerce Analytics, Data Analytics, and Excel VBA Automation.">
 <meta name="keywords" content="E-commerce Analytics use cases, E-commerce services, E-commerce Analytics tools, E-commerce Analytics Software, E Commerce Data Analysis, E commerce Data Analytics Projects, E commerce analysis report, E commerce analytics of data, e commerce industry analysis pdf, e commerce analytics data analysis, web analytics for ecommerce, ecommerce customer analytics, ecommerce analytics from data to decisions, data analytics in e-commerce">
 <meta name="image" content="https://spazeanalytics.com/img/icon.png">
 <!-- Schema.org for Google -->
 <meta itemprop="name" content="Spaze Analytics">
-<meta itemprop="description" content="Spaze Analytics have always done things in different ways. Our work culture create our workforce somewhere different from other organization cultures.">
+<meta itemprop="description" content="Login with Spaze Analytics and get to know about our services in an efficient way. There are various services that we provide including E-Commerce Analytics, Data Analytics, and Excel VBA Automation.">
 <meta itemprop="image" content="https://spazeanalytics.com/img/icon.png">
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 <meta name="og:title" content="Spaze Analytics">
-<meta name="og:description" content="Spaze Analytics have always done things in different ways. Our work culture create our workforce somewhere different from other organization cultures.">
+<meta name="og:description" content="Login with Spaze Analytics and get to know about our services in an efficient way. There are various services that we provide including E-Commerce Analytics, Data Analytics, and Excel VBA Automation.">
 <meta name="og:type" content="website">
 <meta name="og:image" content="https://spazeanalytics.com/img/icon.png">
 <meta name="og:url" content="https://spazeanalytics.com/index.html">
@@ -42,7 +42,7 @@ check_logged_out();
     <link rel="stylesheet" href="../../css/font-awesome.min.css" />
     <link rel="stylesheet" href="../../css/bootstrap.css" />
     <link rel="stylesheet" href="../../css/style.css" />
- 
+    <link rel="canonical" href="https://www.spazeanalytics.com/login-signup/login/" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudfare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"
@@ -72,8 +72,7 @@ check_logged_out();
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
       <div class="container">
         <a href="../../index.html" class="navbar-brand">
-          <img src="../../img/icon.png" alt="" style="width: 20%" />Spaze Analytics</a
-        >
+          <img src="../../img/icon.png" alt="" style="width: 20%" />Spaze Analytics</a>
         <button
           class="navbar-toggler"
           data-toggle="collapse"
@@ -113,7 +112,7 @@ check_logged_out();
                 <div class="text-center">
                             <img class="mb-1" src="../../img/icon.png" alt="" width="130" height="130">
                         </div>
-                <h6 class="h3 mb-3 font-weight-normal text-muted text-center">Login to your Account</h6>
+                <h1 class="h3 mb-3 font-weight-normal text-muted text-center">Login to your Account</h1>
 
                 <div class="text-center mb-3">
                     <small class="text-success font-weight-bold">
