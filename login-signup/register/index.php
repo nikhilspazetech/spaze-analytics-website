@@ -210,6 +210,19 @@
           </div>
         </div>
       </div>
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebSite",
+          "name": "Spazeanalytics",
+          "url": "https://spazeanalytics.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://spazeanalytics.com/index.html{search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      </script>
     </footer>
     <script type="text/javascript">
         function readURL(input) {
