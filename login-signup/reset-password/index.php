@@ -120,7 +120,7 @@ check_logged_out();
                         <div class="text-center">
                             <img class="mb-1" src="../../img/icon.png" alt="" width="130" height="130">
                         </div>
-                        <h6 class="h5 mb-3 font-weight-normal text-muted text-center">Reset password</h6>
+                        <h1 class="h5 mb-3 font-weight-normal text-muted text-center">Reset password</h1>
                         <div class="text-center mb-3">
                             <small class="text-success font-weight-bold">
                                 <?php
