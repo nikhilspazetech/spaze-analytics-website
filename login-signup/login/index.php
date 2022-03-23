@@ -58,6 +58,13 @@ check_logged_out();
 <!-- Custom styles -->
 <link rel="stylesheet" href="../assets/css/app.css">
 <link rel="stylesheet" href="./custom.css" >
+<meta name="twitter:card" content="app">
+<meta name="twitter:site" content="@spazeanalytics">
+<meta name="twitter:description" content="Login with Spaze Analytics and get to know about our services in an efficient way. There are various services that we provide including E-Commerce Analytics, Data Analytics, and Excel VBA Automation.">
+<meta name="twitter:app:name:iphone" content="Spazeanalytics">
+<meta name="twitter:app:name:ipad" content="Spazeanalytics">
+<meta name="twitter:app:name:googleplay" content="Spazeanalytics">
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C5JQX06RLM"></script>
 <script>
