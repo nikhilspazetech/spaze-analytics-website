@@ -70,7 +70,7 @@
   <body>
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
       <div class="container">
-        <a href="index.html" class="navbar-brand">
+        <a href="../../index.html" class="navbar-brand">
           <img src="../../img/icon.png" alt="" style="width: 20%" />Spaze Analytics</a
         >
         <button
