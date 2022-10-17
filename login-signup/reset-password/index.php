@@ -99,6 +99,9 @@ check_logged_out();
             <li class="nav-item">
               <a href="../../about.html" class="nav-link">About Us</a>
             </li>
+             <li class="nav-item">
+            <a href="../../team.html" class="nav-link">Our Team</a>
+          </li>
             <li class="nav-item">
               <a href="../../blog.html" class="nav-link">Blog</a>
             </li>

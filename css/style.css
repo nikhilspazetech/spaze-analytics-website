@@ -18,12 +18,12 @@ body {
 }
 
 .carousel-image-1 {
-  background: url('../img/data-analytics-spaze-analytics.jpg');
+  background: url('../img/bg3.png');
   background-size: cover;
 }
 
 .carousel-image-2 {
-  background: url('../img/data-analytics-spazeanalytics.jpg');
+  background: url('../img/vba3.png');
   background-size: cover;
 }
 
@@ -37,11 +37,11 @@ body {
 }
 
 #home-heading {
-  position: relative;
+  position:static;
   min-height: 200px;
-  background: url('../img/lights.jpg');
+  background: url('../img/pbi-home.png');
   background-attachment: fixed;
-  background-repeat: no-repeat;
+  background-repeat:round;
   text-align: center;
   color: #fff;
 }
