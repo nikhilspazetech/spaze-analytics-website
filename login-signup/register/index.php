@@ -79,7 +79,7 @@
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
       <div class="container">
         <a href="../../index.html" class="navbar-brand">
-          <img src="../../img/icon.png" alt="" style="width: 20%" />Spaze Analytics</a
+          <img src="../../img/logo_page-0001.jpg" alt="" style="width: 20%" />Spaze Analytics</a
         >
         <button
           class="navbar-toggler"
@@ -135,7 +135,7 @@
                         </sub>
                     </div>
                     <div class="text-center">
-                            <img class="mb-1" src="../../img/icon.png" alt="" width="130" height="130">
+                            <img class="mb-1" src="../../img/logo_page-0001.jpg" alt="" width="130" height="130">
                         </div>
                     <h1 class="h3 mt-3 mb-3 font-weight-normal text-muted text-center">Create an Account</h1>
                     <div class="text-center mb-3">
